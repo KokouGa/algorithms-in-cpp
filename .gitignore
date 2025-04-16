@@ -1,0 +1,66 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+a.out
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Cache and logs
+*.log
+*.tmp
+
+# Build directories
+/build/
+/bin/
+/dist/
+/CMakeFiles/
+/cmake-build-*/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+compile_commands.json
+
+# Code::Blocks
+*.depend
+*.layout
+*.cbp
+*.autosave
+
+# QtCreator
+*.pro.user*
+*.qbs.user*
+*.moc/
+*.obj/
+*.rcc/
+*.ui*
+
+# VS Code
+.vscode/
+
+# Other IDE settings
+.idea/
